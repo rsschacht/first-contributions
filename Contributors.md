@@ -33,6 +33,7 @@
 - [Dev Abhiram] (https://github.com/Dev-29)
 - [Dibyajyoti Ganguly] (https://github.com/Dibyajyoti2002)
 - [Himtome1] (https://github.com/Himtome1))
+- [Robert S] (https://github.com/rsschacht))
 - [Derp] (https://github.com/DDeerrpp)
 - [Usama Abdullah](https://github.com/uka7)
 - [Weile Zheng] (https://github.com/Weile-Zheng)
